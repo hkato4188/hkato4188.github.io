@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I decided to learn software development... "
-date:       2018-04-24 16:44:31 +0000
+date:       2018-04-24 12:44:32 -0400
 permalink:  why_i_decided_to_learn_software_development
 ---
 
@@ -20,7 +20,7 @@ Furthermore, it is just an all around exciting time to be in the tech world.  In
 I felt restless reading about all these changes and wanted to take an active part in them.  While studying economics in graduate school, I would spend hours tangentially reading how open-source approaches were reframing “the tragedy of the commons” problem into a “collaborative commons” solution.  Hypotheses such as the possibility for a near zero marginal cost society made pouring over pages of traditional theory less relevant for my graduate studies.  Where would the many theories grounded in nationally based actors stand in a future shaped by transnational forces that supersede terrestrial boundaries?  With all these ideas buzzing in my head, I couldn’t think of any better subject to study than the internet--an ever growing, amorphous creation of our own making, and demonstration of pure anarchy.  
 
 The practicality:  
-Before applying to Flatiron, I was a Senior Team  Lead at Capgemini with 5 years of prior experience in project management, business analytics, and consulting.  The ubiquity of computer code in the workplace and in my personal life were daily reminders of how much value was in learning to program.  I would wake up, read the news about some massive IPO for a new tech company, work a job that completely revolved around technology and data, and use the majority of my free time listening to music on my phone or surfing the web with my laptop.  I realized how most of my actions revolved around technology, but again, the relationship was one-sided--I was sidelined as a consumer not a producer.   
+Before applying to Flatiron, I was a Senior Team  Lead at Capgemini with 5 years of prior experience in project management, business analytics, and consulting.  The ubiquity of computer code in the workplace and in my personal life were daily reminders of how much value was in learning to program.  I would wake up, read the news about some massive IPO for a new tech company, work a job that completely revolved around technology and data, and use the majority of my free time listening to music on my phone or surfing the web with my laptop.  I realized how most of my actions revolved around technology, but again, the relationship was one-sided:  I was sidelined as a consumer not a producer.   
 
 Therefore, learning to code addressed both of my personal and professional ambitions.  Flatiron’s affordable and robust learning platform made it a clear choice to help me towards my goal, and so far, is proving itself to be the panacea for my career problems.  Creating an open and welcoming community with so many forms of support helped me see that I didn’t need to be some genius to learn how to code and lowered the entry barrier for me to enhance my skills and enter a new industry.
 
